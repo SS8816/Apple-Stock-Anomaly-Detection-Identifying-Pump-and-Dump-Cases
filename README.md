@@ -1,4 +1,4 @@
-# Apple Stock Anomaly Detection – Identifying Pump-and-Dump Cases
+# Stock Anomaly Detection – Identifying Pump-and-Dump Cases
 
 ## Project Overview
 This project focuses on **anomaly detection in Apple (AAPL) stock prices**, specifically to identify **pump-and-dump cases** or unusual trading patterns. By leveraging **unsupervised learning techniques**, we highlight potential stock manipulations using multiple statistical and AI-based approaches.
